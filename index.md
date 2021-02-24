@@ -6,7 +6,7 @@ Open-source LoRaWAN Server that integrates both the network-server and the appli
 Pure Erlang implementation of the Constrained Application Protocol (CoAP).
 
 ### Security
-[Provider for integration of TPM 2.0 to OpenSSL 3.0](https://github.com/gotthardp/tpm2-openssl). Enables usage of TPM 2.0 in OpenSSL based applications.
+[Provider for integration of TPM 2.0 to OpenSSL 3.0](https://github.com/tpm2-software/tpm2-openssl). Enables usage of TPM 2.0 in OpenSSL based applications.
 
 [Erlang client for NTLM Authentication and NTLM Over HTTP](https://github.com/gotthardp/erlang-ntlm) for interfaces to Microsoft SharePoint and other IIS based applications.
 
